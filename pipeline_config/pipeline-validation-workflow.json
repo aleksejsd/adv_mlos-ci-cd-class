@@ -1,6 +1,6 @@
 
 {
-  "name": "Demo Pipeline Validation Workflow with Conditional Execution - 2025-03-26",
+  "name": "Demo Pipeline Validation Workflow with Conditional Execution - 2025-03-29",
   "email_notifications": {
     "on_failure": [
       "labuser9717323_1742981121@vocareum.com"
